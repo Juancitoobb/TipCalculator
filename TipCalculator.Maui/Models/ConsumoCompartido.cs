@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-
+//Juan Pablo Cadena Aguilar
 namespace TipCalculator.Maui.Models
 {
     public class ConsumoCompartido
